@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:BE93C5,100:7BC6CC&height=150&section=header&text=Chaehyun%20Nam&fontSize=70&fontColor=00223E)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:DAE2F8,100:ffd194&height=150&section=header&text=Chaehyun%20Nam&fontSize=70&fontColor=636FA4)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYCHCH515&show_icons=true&theme=buefy)
